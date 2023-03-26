@@ -1,10 +1,4 @@
-# Copyright 2021-2023 Bryan Gardiner <bog@khumba.net>
-# Distributed under the terms of the GNU General Public License v2
-
-# This ebuild bundles the specific version of Pomme that is recommended
-# for this release of Bugdom.  Nanosaur is incompatible with this
-# version and requires a different version, and it's not worth the
-# trouble to slot Pomme.
+# Copyright 2023-* izzy Meyer <izder456@disroot.org>
 
 EAPI=8
 
